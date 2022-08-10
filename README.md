@@ -29,25 +29,15 @@ Download the pre-processed fc7 layer feature and pool5 layer feature from below 
 
 1. Downloading the dataset(s) from above link.
 
-2. Run the experiment(s):
+2. Run the experiment(s) (task fc7 layer as example):
 
-  -  fc7 layer feature as input :
+   ```bash
+   cd fc7
+   python main.py
+   ```
 
-    ```bash
-    cd fc7
-    python main.py
-    ```
+   To run this experiment, you need to modify the path `datafile = 'xxx.txt'` before you run `python main.py`.
 
-    To run this experiment, you need to modify the path "datafile = 'xxx.txt'" before you run 'python main.py'.
-
-  - pool5 layer feature as input :
-
-    ```bash
-    cd pool5
-    python main.py
-    ```
-
-    To run this experiment, you need to modify the path "datafile = 'xxx.txt'" before you run 'python main.py'.
 ## Citation
 
 If you use this code for your research, please consider citing:
