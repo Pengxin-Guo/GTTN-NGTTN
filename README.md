@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Python3
-- PyTorch ==1.6.0 (with suitable CUDA and CuDNN version)
+- PyTorch ==1.6.0
 - Numpy
 
 ## Datasets
