@@ -11,15 +11,15 @@
 - fc7 layer feature:
   - office_31_fc7.txt
   - image_clef_fc7.txt
-    - office_Home_fc7.txt
-    - office-catech_fc7.txt
-    - DomainNet_fc7.txt
+  - office_Home_fc7.txt
+  - office-catech_fc7.txt
+  - DomainNet_fc7.txt
 - pool5 layer feature:
   - office_31_pool5.txt
   - image_clef_pool5.txt
-    - office_Home_pool5.txt
-    - office-catech_pool5.txt
-    - DomainNet_pool5.txt 
+  - office_Home_pool5.txt
+  - office-catech_pool5.txt
+  - DomainNet_pool5.txt 
 
 Download the pre-processed fc7 layer feature and pool5 layer feature from below link.
 
