@@ -50,6 +50,13 @@ If you use this code for your research, please consider citing:
   pages={2254--2262},
   year={2021}
 }
+@article{zhang2022learning,
+  title={Learning Linear and Nonlinear Low-Rank Structure in Multi-Task Learning},
+  author={Zhang, Yi and Zhang, Yu and Wang, Wei},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
+}
 ```
 
 ## Contact
